@@ -82,11 +82,6 @@
 			echo "</br>";
 		}
 
-		for ($i = 0; $i < count($directors); $i++) {
-			echo $directors[$i]['first_name'].' '.$directors[$i]['last_name'];
-			echo "</br>";
-		}
-
 	?>
 	<p>&nbsp;</p>
 	<select name="choice">

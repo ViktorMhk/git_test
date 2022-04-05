@@ -23,13 +23,6 @@ $directors = [
         'birthdate' => '1960-11-22',
     ],
     [
-        'id' => 4,
-        'first_name' => 'Ingmar',
-        'last_name' => 'Bergman',
-        'country' => 'Sweden',
-        'birthdate' => '1918-07-14',
-    ],
-    [
         'id' => 5,
         'first_name' => 'Andrej',
         'last_name' => 'Tarkovskij',
