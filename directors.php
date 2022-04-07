@@ -29,12 +29,5 @@ $directors = [
         'country' => 'Russia',
         'birthdate' => '2000-10-10',
     ],
-    [
-        'id' => 4,
-        'first_name' => 'Ingmar',
-        'last_name' => 'Bergman',
-        'country' => 'Sweden',
-        'birthdate' => '1918-07-14',
-    ],
 ];
 ?>
