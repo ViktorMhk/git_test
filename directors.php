@@ -2,13 +2,6 @@
 
 $directors = [
     [
-        'id' => 1,
-        'first_name' => 'Edgar',
-        'last_name' => 'Wright',
-        'country' => 'United Kingdom',
-        'birthdate' => '1974-04-18',
-    ],
-    [
         'id' => 2,
         'first_name' => 'Jim',
         'last_name' => 'Jarmusch',
